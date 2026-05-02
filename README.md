@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://livefast.ai" title="Visit Live Fast">
     <img
-      src="https://media.livefast.dev/media/707eecad-9886-439b-b07c-81b9e62c53b3-1777743597998.gif"
+      src="https://media.livefast.dev/media/82000734-e91b-446c-b5bc-886b1e156d87-1777743994314.gif"
       alt="Visit Live Fast — animated preview"
       width="640"
       height="360"
